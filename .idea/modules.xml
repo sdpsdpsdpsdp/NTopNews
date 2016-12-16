@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lib_pulltorefresh/Lib_pulltorefresh.iml" filepath="$PROJECT_DIR$/Lib_pulltorefresh/Lib_pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NTopNews.iml" filepath="$PROJECT_DIR$/NTopNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_flashview/lib_flashview.iml" filepath="$PROJECT_DIR$/lib_flashview/lib_flashview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_main/lib_main.iml" filepath="$PROJECT_DIR$/lib_main/lib_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_onkeyshare/lib_onkeyshare.iml" filepath="$PROJECT_DIR$/lib_onkeyshare/lib_onkeyshare.iml" />
+    </modules>
+  </component>
+</project>
